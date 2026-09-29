@@ -3,7 +3,7 @@
 ## 🧑🏽‍💻 Um pouquinho sobre mim:
 <div>
   <p>
-    Sou apaixonado por tecnologia, dados e automação, com foco no desenvolvimento de soluções em Ciência de Dados, 
+    Profissional de tecnologia, dados e automação, com foco no desenvolvimento de soluções em Ciência de Dados, 
     Business Intelligence e Engenharia de Analytics. Experiência na criação de dashboards analíticos, modelagem e manipulação de 
     bancos de dados relacionais, pipelines de extração e tratamento de dados, automação de rotinas com Python e desenvolvimento 
     de aplicações inteligentes com IA.
