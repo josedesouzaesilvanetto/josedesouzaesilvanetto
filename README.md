@@ -1,6 +1,6 @@
 ### Oi, aqui é o Neto, Cientista & Analista de Dados | Automação & BI! 👋
 
-## 🧑🏽‍💻 Um pouquinho sobre mim:
+## 🧑🏽‍💻 Sobre mim:
 <div>
   <p>
     Profissional de tecnologia, dados e automação, com foco no desenvolvimento de soluções em Ciência de Dados, 
