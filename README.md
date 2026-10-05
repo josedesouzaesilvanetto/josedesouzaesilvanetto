@@ -82,11 +82,11 @@ Descrição | Instituição | Ano | Tipo
 
 <div align="center">
   <a href="https://github.com/josedesouzaesilvanetto">
-    <img height="170em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=josedesouzaesilvanetto&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"/>
-    <img height="170em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedesouzaesilvanetto&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+    <img height="170em" alt="GitHub Stats" src="./stats.svg"/>
+    <img height="170em" alt="Top Languages" src="./top-langs.svg"/>
   </a>
   <br><br>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=josedesouzaesilvanetto&theme=dark&hide_border=true&locale=pt_BR"/>
+  <img alt="GitHub Streak" src="./streak.svg"/>
 </div>
 
 <img width="100%" alt="Footer" src="./footer.svg"/>
