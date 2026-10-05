@@ -3,7 +3,7 @@
 <img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:005CA9,100:0F2027&amp;height=190&amp;section=header&amp;text=Jos%C3%A9%20Neto&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Cientista%20%26%20Analista%20de%20Dados&amp;descAlignY=60&amp;descSize=20"/>
 
 <a href="https://github.com/josedesouzaesilvanetto">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=005CA9&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Cientista+de+Dados;Analista+de+Dados+%26+BI;Automa%C3%A7%C3%A3o+com+Python;Solu%C3%A7%C3%B5es+de+Dados+com+IA"/>
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=005CA9&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Cientista+de+Dados;Arquiteto+de+Dados+%26+BI;Automa%C3%A7%C3%A3o+com+Python;Solu%C3%A7%C3%B5es+de+Dados+com+IA"/>
 </a>
 
 </div>
