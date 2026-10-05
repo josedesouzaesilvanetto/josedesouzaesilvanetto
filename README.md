@@ -8,7 +8,7 @@
 
 </div>
 
-### Oi, aqui é o Neto, Cientista & Analista de Dados | Automação & BI! 👋
+### Oi, aqui é o Neto, Arquiteto e Cientista de Dados 👋
 
 ## 🧑🏽‍💻 Sobre mim:
 <div>
