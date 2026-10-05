@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Banner" src="./header.svg"/>
+<img width="100%" alt="Banner" src="./banner.svg"/>
 
 <a href="https://github.com/josedesouzaesilvanetto">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=005CA9&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Cientista+de+Dados;Arquiteto+de+Dados+%26+BI;Automa%C3%A7%C3%A3o+com+Python;Solu%C3%A7%C3%B5es+de+Dados+com+IA"/>
