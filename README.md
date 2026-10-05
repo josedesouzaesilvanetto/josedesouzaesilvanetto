@@ -82,7 +82,7 @@ Descrição | Instituição | Ano | Tipo
 
 <div align="center">
   <a href="https://github.com/josedesouzaesilvanetto">
-    <img height="170em" alt="GitHub Stats" src="./stats.svg"/>
+    <img height="170em" alt="GitHub Stats" src="./github-stats.svg"/>
     <img height="170em" alt="Top Languages" src="./top-langs.svg"/>
   </a>
   <br><br>
