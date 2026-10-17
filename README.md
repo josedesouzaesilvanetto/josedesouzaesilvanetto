@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Banner Institucional Jose Neto" src="./banner.svg?v=0d8531da"/>
+<img width="100%" alt="Banner Institucional Jose Neto" src="./banner.svg?v=50c4c7c0"/>
 
 <br/>
 
@@ -9,14 +9,14 @@
 </a>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/josedesouzaesilvanetto](https://www.linkedin.com/in/jose-netto/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-netto/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="mailto:josedesouzaesilvanetto@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   <a href="https://github.com/josedesouzaesilvanetto">
-    <img alt="Contribuicoes" src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es_2026-712-005CA9?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+    <img alt="Contribuicoes" src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es_2026-720-005CA9?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
   <a href="https://github.com/josedesouzaesilvanetto">
     <img alt="Repositorios" src="https://img.shields.io/badge/Reposit%C3%B3rios_Ativos-49-10B981?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
@@ -80,12 +80,12 @@ Desenvolvo soluções corporativas de ponta a ponta: desde a extração, reconci
 
 <div align="center">
   <a href="https://github.com/josedesouzaesilvanetto">
-    <img width="49%" alt="GitHub Engineering Stats" src="./github-stats.svg?v=0d8531da"/>
-    <img width="49%" alt="Top Languages" src="./top-langs.svg?v=0d8531da"/>
+    <img width="49%" alt="GitHub Engineering Stats" src="./github-stats.svg?v=50c4c7c0"/>
+    <img width="49%" alt="Top Languages" src="./top-langs.svg?v=50c4c7c0"/>
   </a>
   <br/><br/>
   <a href="https://github.com/josedesouzaesilvanetto">
-    <img width="99%" alt="GitHub Streak e Ritmo Recente" src="./streak.svg?v=0d8531da"/>
+    <img width="99%" alt="GitHub Streak e Ritmo Recente" src="./streak.svg?v=50c4c7c0"/>
   </a>
 </div>
 
@@ -108,6 +108,6 @@ Desenvolvo soluções corporativas de ponta a ponta: desde a extração, reconci
 
 <div align="center">
 
-<img width="100%" alt="Footer Institucional" src="./footer.svg?v=0d8531da"/>
+<img width="100%" alt="Footer Institucional" src="./footer.svg?v=50c4c7c0"/>
 
 </div>
