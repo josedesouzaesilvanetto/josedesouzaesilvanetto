@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josedesouzaesilvanetto" target="_blank">
+  <a href="[https://www.linkedin.com/in/josedesouzaesilvanetto](https://www.linkedin.com/in/jose-netto/)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="mailto:josedesouzaesilvanetto@gmail.com">
