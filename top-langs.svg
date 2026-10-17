@@ -1,129 +1,86 @@
+<svg width="495" height="205" viewBox="0 0 495 205" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="langsTitle langsDesc">
+  <title id="langsTitle">Linguagens e Tecnologias Mais Usadas</title>
+  <desc id="langsDesc">Distribuição de linguagens nos repositórios de engenharia de dados e automação.</desc>
+  <defs>
+    <linearGradient id="langsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#111927"/>
+    </linearGradient>
+    <linearGradient id="langsTopBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3572A5"/>
+      <stop offset="50%" stop-color="#3178C6"/>
+      <stop offset="100%" stop-color="#E38C00"/>
+    </linearGradient>
+    <clipPath id="barClip">
+      <rect x="24" y="68" width="447" height="10" rx="5"/>
+    </clipPath>
+  </defs>
 
-      <svg
-        width="300"
-        height="90"
-        viewBox="0 0 300 90"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        role="img"
-        aria-labelledby="descId"
-      >
-        <title id="titleId"></title>
-        <desc id="descId"></desc>
-        <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #fff;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
-          
-    @keyframes slideInAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: calc(100%-100px);
-      }
-    }
-    @keyframes growWidthAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: 100%;
-      }
-    }
-    .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9f9f9f;
-    }
-    @supports(-moz-appearance: auto) {
-      /* Selector detects Firefox */
-      .stat { font-size:12px; }
-    }
-    .bold { font-weight: 700 }
-    .lang-name {
-      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #9f9f9f;
-    }
-    .stagger {
-      opacity: 0;
-      animation: fadeInAnimation 0.3s ease-in-out forwards;
-    }
-    #rect-mask rect{
-      animation: slideInAnimation 1s ease-in-out forwards;
-    }
-    .lang-progress{
-      animation: growWidthAnimation 0.6s ease-in-out forwards;
-    }
-    
+  <rect x="0.5" y="0.5" width="494" height="204" rx="8" fill="url(#langsBg)" stroke="#30363D" stroke-width="1"/>
+  <rect x="1" y="1" width="493" height="4" rx="2" fill="url(#langsTopBar)"/>
 
-          
-      /* Animations */
-      @keyframes scaleInAnimation {
-        from {
-          transform: translate(-5px, 5px) scale(0);
-        }
-        to {
-          transform: translate(-5px, 5px) scale(1);
-        }
-      }
-      @keyframes fadeInAnimation {
-        from {
-          opacity: 0;
-        }
-        to {
-          opacity: 1;
-        }
-      }
-    
-          
-        </style>
+  <!-- Cabecalho -->
+  <text x="24" y="32" fill="#F0F6FC" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="16.5" font-weight="700">
+    Stack &amp; Linguagens Predominantes
+  </text>
+  <text x="24" y="49" fill="#8B949E" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="11.5" font-weight="500">
+    Distribuição de Código Autoral nos 48 Repositórios
+  </text>
+  <line x1="24" y1="59" x2="471" y2="59" stroke="#21262D" stroke-width="1"/>
 
-        
+  <!-- Barra Proporcional Empilhada -->
+  <g clip-path="url(#barClip)">
+    <rect x="24.00" y="68.0" width="253.91" height="10" fill="#3572A5"/>
+    <rect x="277.91" y="68.0" width="73.30" height="10" fill="#E38C00"/>
+    <rect x="351.21" y="68.0" width="63.31" height="10" fill="#3178C6"/>
+    <rect x="414.52" y="68.0" width="26.23" height="10" fill="#E34C26"/>
+    <rect x="440.75" y="68.0" width="16.64" height="10" fill="#F1E05A"/>
+    <rect x="457.38" y="68.0" width="13.62" height="10" fill="#2B7489"/>
+  </g>
 
-        <rect
-          data-testid="card-bg"
-          x="0.5"
-          y="0.5"
-          rx="4.5"
-          height="99%"
-          stroke="#e4e2e2"
-          width="299"
-          fill="#151515"
-          stroke-opacity="0"
-        />
-
-        
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >Most Used Languages</text>
+  <!-- Legenda 2 Colunas -->
+  <g font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif">
+    <g transform="translate(24, 98)">
+      <circle cx="6" cy="7" r="5" fill="#3572A5"/>
+      <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">Python</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">56.8%</text>
+      <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
+      <rect x="18" y="16" width="79.5" height="4" rx="2" fill="#3572A5"/>
     </g>
-      </g>
-    
-
-        <g
-          data-testid="main-card-body"
-          transform="translate(0, 55)"
-        >
-          
-    <svg data-testid="lang-items" x="25">
-      
-    <text x="0" y="11" class="stat bold" fill="#9f9f9f">No languages data.</text>
-  
-    </svg>
-  
-        </g>
-      </svg>
-    
+    <g transform="translate(252, 98)">
+      <circle cx="6" cy="7" r="5" fill="#E38C00"/>
+      <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">SQL / T-SQL</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">16.4%</text>
+      <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
+      <rect x="18" y="16" width="23.0" height="4" rx="2" fill="#E38C00"/>
+    </g>
+    <g transform="translate(24, 130)">
+      <circle cx="6" cy="7" r="5" fill="#3178C6"/>
+      <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">TypeScript</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">14.2%</text>
+      <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
+      <rect x="18" y="16" width="19.8" height="4" rx="2" fill="#3178C6"/>
+    </g>
+    <g transform="translate(252, 130)">
+      <circle cx="6" cy="7" r="5" fill="#E34C26"/>
+      <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">HTML5 &amp; CSS3</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">5.9%</text>
+      <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
+      <rect x="18" y="16" width="8.2" height="4" rx="2" fill="#E34C26"/>
+    </g>
+    <g transform="translate(24, 162)">
+      <circle cx="6" cy="7" r="5" fill="#F1E05A"/>
+      <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">JavaScript</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">3.7%</text>
+      <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
+      <rect x="18" y="16" width="6.0" height="4" rx="2" fill="#F1E05A"/>
+    </g>
+    <g transform="translate(252, 162)">
+      <circle cx="6" cy="7" r="5" fill="#2B7489"/>
+      <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">PowerShell &amp; Shell</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">3.0%</text>
+      <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
+      <rect x="18" y="16" width="6.0" height="4" rx="2" fill="#2B7489"/>
+    </g>
+  </g>
+</svg>

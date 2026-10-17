@@ -1,49 +1,33 @@
-
-      <svg
-        width="854"
-        height="100"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 100"
-      >
-        <style>
-      .text {   font-size: 70px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } path {   transform: rotate(180deg);   transform-origin: 50% 50%;  } 
-      .text, .desc {     } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#005CA9"/><stop offset="100%" stop-color="#0F2027"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 50) scale(1, 1) translate(-427, -50)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 20Q 213.5 60 427 30T 854 55L 854 0 Z;M0 0L 0 45Q 213.5 60 427 40T 854 30L 854 0 Z;M0 0L 0 65Q 213.5 35 427 65T 854 30L 854 0 Z;M0 0L 0 20Q 213.5 60 427 30T 854 55L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 35Q 213.5 80 427 50T 854 60L 854 0 Z;M0 0L 0 50Q 213.5 20 427 20T 854 40L 854 0 Z;M0 0L 0 45Q 213.5 25 427 50T 854 65L 854 0 Z;M0 0L 0 35Q 213.5 80 427 50T 854 60L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         
-        
-      </svg>
-    
+<svg width="854" height="100" viewBox="0 0 854 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="footerTitle">
+  <title id="footerTitle">Rodape - Jose Neto Data Architecture</title>
+  <defs>
+    <linearGradient id="fBgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#060D1A"/>
+      <stop offset="50%" stop-color="#0B2144"/>
+      <stop offset="100%" stop-color="#005CA9"/>
+    </linearGradient>
+    <linearGradient id="fWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#005CA9" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.4"/>
+    </linearGradient>
+    <clipPath id="footerClip">
+      <rect x="0" y="0" width="854" height="100" rx="10"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#footerClip)">
+    <rect x="0" y="0" width="854" height="100" fill="url(#fBgGrad)"/>
+    <path d="M0 35 Q 213.5 5 427 32 T 854 20 L 854 0 L 0 0 Z" fill="url(#fWave1)">
+      <animate attributeName="d" dur="18s" repeatCount="indefinite"
+        values="M0 35 Q 213.5 5 427 32 T 854 20 L 854 0 L 0 0 Z;
+                M0 20 Q 213.5 48 427 18 T 854 38 L 854 0 L 0 0 Z;
+                M0 35 Q 213.5 5 427 32 T 854 20 L 854 0 L 0 0 Z"/>
+    </path>
+    <text x="427" y="54" text-anchor="middle" fill="#E0F2FE" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="13" font-weight="600" letter-spacing="0.5">
+      Transformando dados complexos em decisões estratégicas, governança e soluções inteligentes.
+    </text>
+    <text x="427" y="76" text-anchor="middle" fill="#7DD3FC" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="11" font-weight="500" letter-spacing="0.8">
+      JOSÉ NETO  •  DATA SCIENCE  |  BI  |  DATA ENGINEERING  |  AI
+    </text>
+    <rect x="0.5" y="0.5" width="853" height="99" rx="9.5" fill="none" stroke="#38BDF8" stroke-opacity="0.25" stroke-width="1"/>
+  </g>
+</svg>
