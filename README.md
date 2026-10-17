@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Banner Institucional Jose Neto" src="./banner.svg?v=22b16acb"/>
+<img width="100%" alt="Banner Institucional Jose Neto" src="./banner.svg?v=12b3c4ca"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   <a href="https://github.com/josedesouzaesilvanetto">
-    <img alt="Contribuicoes" src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es_2026-754-005CA9?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+    <img alt="Contribuicoes" src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es_2026-774-005CA9?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
   <a href="https://github.com/josedesouzaesilvanetto">
     <img alt="Repositorios" src="https://img.shields.io/badge/Reposit%C3%B3rios_Ativos-49-10B981?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
@@ -80,12 +80,12 @@ Desenvolvo soluções corporativas de ponta a ponta: desde a extração, reconci
 
 <div align="center">
   <a href="https://github.com/josedesouzaesilvanetto">
-    <img width="49%" alt="GitHub Engineering Stats" src="./github-stats.svg?v=22b16acb"/>
-    <img width="49%" alt="Top Languages" src="./top-langs.svg?v=22b16acb"/>
+    <img width="49%" alt="GitHub Engineering Stats" src="./github-stats.svg?v=12b3c4ca"/>
+    <img width="49%" alt="Top Languages" src="./top-langs.svg?v=12b3c4ca"/>
   </a>
   <br/><br/>
   <a href="https://github.com/josedesouzaesilvanetto">
-    <img width="99%" alt="GitHub Streak e Ritmo Recente" src="./streak.svg?v=22b16acb"/>
+    <img width="99%" alt="GitHub Streak e Ritmo Recente" src="./streak.svg?v=12b3c4ca"/>
   </a>
 </div>
 
@@ -108,6 +108,6 @@ Desenvolvo soluções corporativas de ponta a ponta: desde a extração, reconci
 
 <div align="center">
 
-<img width="100%" alt="Footer Institucional" src="./footer.svg?v=22b16acb"/>
+<img width="100%" alt="Footer Institucional" src="./footer.svg?v=12b3c4ca"/>
 
 </div>
