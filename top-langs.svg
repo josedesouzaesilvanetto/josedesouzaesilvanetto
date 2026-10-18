@@ -30,12 +30,12 @@
 
   <!-- Barra Proporcional Empilhada -->
   <g clip-path="url(#barClip)">
-    <rect x="24.00" y="68.0" width="254.80" height="10" fill="#3572A5"/>
-    <rect x="278.80" y="68.0" width="70.02" height="10" fill="#E38C00"/>
-    <rect x="348.82" y="68.0" width="67.32" height="10" fill="#3178C6"/>
-    <rect x="416.14" y="68.0" width="26.21" height="10" fill="#E34C26"/>
-    <rect x="442.35" y="68.0" width="15.78" height="10" fill="#F1E05A"/>
-    <rect x="458.13" y="68.0" width="12.87" height="10" fill="#2B7489"/>
+    <rect x="24.00" y="68.0" width="254.28" height="10" fill="#3572A5"/>
+    <rect x="278.28" y="68.0" width="69.66" height="10" fill="#E38C00"/>
+    <rect x="347.94" y="68.0" width="67.82" height="10" fill="#3178C6"/>
+    <rect x="415.76" y="68.0" width="26.56" height="10" fill="#E34C26"/>
+    <rect x="442.32" y="68.0" width="15.87" height="10" fill="#F1E05A"/>
+    <rect x="458.19" y="68.0" width="12.81" height="10" fill="#2B7489"/>
   </g>
 
   <!-- Legenda 2 Colunas -->
@@ -43,35 +43,35 @@
     <g transform="translate(24, 98)">
       <circle cx="6" cy="7" r="5" fill="#3572A5"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">Python</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">57.0%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">56.9%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
-      <rect x="18" y="16" width="79.8" height="4" rx="2" fill="#3572A5"/>
+      <rect x="18" y="16" width="79.6" height="4" rx="2" fill="#3572A5"/>
     </g>
     <g transform="translate(252, 98)">
       <circle cx="6" cy="7" r="5" fill="#E38C00"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">SQL / T-SQL</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">15.7%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">15.6%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
-      <rect x="18" y="16" width="21.9" height="4" rx="2" fill="#E38C00"/>
+      <rect x="18" y="16" width="21.8" height="4" rx="2" fill="#E38C00"/>
     </g>
     <g transform="translate(24, 130)">
       <circle cx="6" cy="7" r="5" fill="#3178C6"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">TypeScript</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">15.1%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">15.2%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
-      <rect x="18" y="16" width="21.1" height="4" rx="2" fill="#3178C6"/>
+      <rect x="18" y="16" width="21.2" height="4" rx="2" fill="#3178C6"/>
     </g>
     <g transform="translate(252, 130)">
       <circle cx="6" cy="7" r="5" fill="#E34C26"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">HTML5 &amp; CSS3</text>
       <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">5.9%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
-      <rect x="18" y="16" width="8.2" height="4" rx="2" fill="#E34C26"/>
+      <rect x="18" y="16" width="8.3" height="4" rx="2" fill="#E34C26"/>
     </g>
     <g transform="translate(24, 162)">
       <circle cx="6" cy="7" r="5" fill="#F1E05A"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">JavaScript</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">3.5%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">3.6%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
       <rect x="18" y="16" width="6.0" height="4" rx="2" fill="#F1E05A"/>
     </g>
