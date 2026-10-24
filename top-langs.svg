@@ -30,12 +30,12 @@
 
   <!-- Barra Proporcional Empilhada -->
   <g clip-path="url(#barClip)">
-    <rect x="24.00" y="68.0" width="273.65" height="10" fill="#3572A5"/>
-    <rect x="297.65" y="68.0" width="63.30" height="10" fill="#E38C00"/>
-    <rect x="360.94" y="68.0" width="61.03" height="10" fill="#3178C6"/>
-    <rect x="421.97" y="68.0" width="20.38" height="10" fill="#E34C26"/>
-    <rect x="442.35" y="68.0" width="17.02" height="10" fill="#F1E05A"/>
-    <rect x="459.37" y="68.0" width="11.63" height="10" fill="#2B7489"/>
+    <rect x="24.00" y="68.0" width="273.55" height="10" fill="#3572A5"/>
+    <rect x="297.55" y="68.0" width="63.26" height="10" fill="#E38C00"/>
+    <rect x="360.81" y="68.0" width="60.99" height="10" fill="#3178C6"/>
+    <rect x="421.80" y="68.0" width="20.54" height="10" fill="#E34C26"/>
+    <rect x="442.34" y="68.0" width="17.01" height="10" fill="#F1E05A"/>
+    <rect x="459.35" y="68.0" width="11.65" height="10" fill="#2B7489"/>
   </g>
 
   <!-- Legenda 2 Colunas -->
@@ -57,7 +57,7 @@
     <g transform="translate(24, 130)">
       <circle cx="6" cy="7" r="5" fill="#3178C6"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">TypeScript</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">13.7%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">13.6%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
       <rect x="18" y="16" width="19.1" height="4" rx="2" fill="#3178C6"/>
     </g>
