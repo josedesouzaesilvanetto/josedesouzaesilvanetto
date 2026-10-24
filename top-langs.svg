@@ -30,12 +30,12 @@
 
   <!-- Barra Proporcional Empilhada -->
   <g clip-path="url(#barClip)">
-    <rect x="24.00" y="68.0" width="273.55" height="10" fill="#3572A5"/>
-    <rect x="297.55" y="68.0" width="63.26" height="10" fill="#E38C00"/>
-    <rect x="360.81" y="68.0" width="60.99" height="10" fill="#3178C6"/>
-    <rect x="421.80" y="68.0" width="20.54" height="10" fill="#E34C26"/>
-    <rect x="442.34" y="68.0" width="17.01" height="10" fill="#F1E05A"/>
-    <rect x="459.35" y="68.0" width="11.65" height="10" fill="#2B7489"/>
+    <rect x="24.00" y="68.0" width="273.62" height="10" fill="#3572A5"/>
+    <rect x="297.62" y="68.0" width="63.24" height="10" fill="#E38C00"/>
+    <rect x="360.86" y="68.0" width="60.97" height="10" fill="#3178C6"/>
+    <rect x="421.83" y="68.0" width="20.53" height="10" fill="#E34C26"/>
+    <rect x="442.35" y="68.0" width="17.00" height="10" fill="#F1E05A"/>
+    <rect x="459.36" y="68.0" width="11.64" height="10" fill="#2B7489"/>
   </g>
 
   <!-- Legenda 2 Colunas -->
@@ -50,7 +50,7 @@
     <g transform="translate(252, 98)">
       <circle cx="6" cy="7" r="5" fill="#E38C00"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">SQL / T-SQL</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">14.2%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">14.1%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
       <rect x="18" y="16" width="19.8" height="4" rx="2" fill="#E38C00"/>
     </g>
