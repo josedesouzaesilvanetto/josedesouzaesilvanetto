@@ -30,10 +30,10 @@
 
   <!-- Barra Proporcional Empilhada -->
   <g clip-path="url(#barClip)">
-    <rect x="24.00" y="68.0" width="275.16" height="10" fill="#3572A5"/>
-    <rect x="299.16" y="68.0" width="62.63" height="10" fill="#E38C00"/>
-    <rect x="361.79" y="68.0" width="60.38" height="10" fill="#3178C6"/>
-    <rect x="422.18" y="68.0" width="20.40" height="10" fill="#E34C26"/>
+    <rect x="24.00" y="68.0" width="275.18" height="10" fill="#3572A5"/>
+    <rect x="299.18" y="68.0" width="62.63" height="10" fill="#E38C00"/>
+    <rect x="361.81" y="68.0" width="60.37" height="10" fill="#3178C6"/>
+    <rect x="422.18" y="68.0" width="20.39" height="10" fill="#E34C26"/>
     <rect x="442.57" y="68.0" width="16.90" height="10" fill="#F1E05A"/>
     <rect x="459.47" y="68.0" width="11.53" height="10" fill="#2B7489"/>
   </g>
