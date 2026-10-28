@@ -24,18 +24,18 @@
     Stack &amp; Linguagens Predominantes
   </text>
   <text x="24" y="49" fill="#8B949E" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="11.5" font-weight="500">
-    Distribuição de Código Autoral nos 53 Repositórios
+    Distribuição de Código Autoral nos 54 Repositórios
   </text>
   <line x1="24" y1="59" x2="471" y2="59" stroke="#21262D" stroke-width="1"/>
 
   <!-- Barra Proporcional Empilhada -->
   <g clip-path="url(#barClip)">
-    <rect x="24.00" y="68.0" width="277.05" height="10" fill="#3572A5"/>
-    <rect x="301.05" y="68.0" width="61.93" height="10" fill="#E38C00"/>
-    <rect x="362.98" y="68.0" width="59.75" height="10" fill="#3178C6"/>
-    <rect x="422.73" y="68.0" width="20.15" height="10" fill="#E34C26"/>
-    <rect x="442.88" y="68.0" width="16.72" height="10" fill="#F1E05A"/>
-    <rect x="459.59" y="68.0" width="11.41" height="10" fill="#2B7489"/>
+    <rect x="24.00" y="68.0" width="278.20" height="10" fill="#3572A5"/>
+    <rect x="302.20" y="68.0" width="61.50" height="10" fill="#E38C00"/>
+    <rect x="363.69" y="68.0" width="59.33" height="10" fill="#3178C6"/>
+    <rect x="423.02" y="68.0" width="20.00" height="10" fill="#E34C26"/>
+    <rect x="443.02" y="68.0" width="16.60" height="10" fill="#F1E05A"/>
+    <rect x="459.62" y="68.0" width="11.38" height="10" fill="#2B7489"/>
   </g>
 
   <!-- Legenda 2 Colunas -->
@@ -43,23 +43,23 @@
     <g transform="translate(24, 98)">
       <circle cx="6" cy="7" r="5" fill="#3572A5"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">Python</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">62.0%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">62.2%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
-      <rect x="18" y="16" width="86.8" height="4" rx="2" fill="#3572A5"/>
+      <rect x="18" y="16" width="87.1" height="4" rx="2" fill="#3572A5"/>
     </g>
     <g transform="translate(252, 98)">
       <circle cx="6" cy="7" r="5" fill="#E38C00"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">SQL / T-SQL</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">13.9%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">13.8%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
-      <rect x="18" y="16" width="19.4" height="4" rx="2" fill="#E38C00"/>
+      <rect x="18" y="16" width="19.3" height="4" rx="2" fill="#E38C00"/>
     </g>
     <g transform="translate(24, 130)">
       <circle cx="6" cy="7" r="5" fill="#3178C6"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">TypeScript</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">13.4%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">13.3%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
-      <rect x="18" y="16" width="18.7" height="4" rx="2" fill="#3178C6"/>
+      <rect x="18" y="16" width="18.6" height="4" rx="2" fill="#3178C6"/>
     </g>
     <g transform="translate(252, 130)">
       <circle cx="6" cy="7" r="5" fill="#E34C26"/>
@@ -78,7 +78,7 @@
     <g transform="translate(252, 162)">
       <circle cx="6" cy="7" r="5" fill="#2B7489"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">PowerShell &amp; Shell</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">2.6%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">2.5%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
       <rect x="18" y="16" width="6.0" height="4" rx="2" fill="#2B7489"/>
     </g>
