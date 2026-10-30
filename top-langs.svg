@@ -30,12 +30,12 @@
 
   <!-- Barra Proporcional Empilhada -->
   <g clip-path="url(#barClip)">
-    <rect x="24.00" y="68.0" width="293.15" height="10" fill="#3572A5"/>
-    <rect x="317.15" y="68.0" width="61.82" height="10" fill="#E38C00"/>
-    <rect x="378.97" y="68.0" width="43.62" height="10" fill="#3178C6"/>
-    <rect x="422.59" y="68.0" width="18.86" height="10" fill="#E34C26"/>
-    <rect x="441.45" y="68.0" width="17.46" height="10" fill="#F1E05A"/>
-    <rect x="458.91" y="68.0" width="12.09" height="10" fill="#2B7489"/>
+    <rect x="24.00" y="68.0" width="292.98" height="10" fill="#3572A5"/>
+    <rect x="316.98" y="68.0" width="61.78" height="10" fill="#E38C00"/>
+    <rect x="378.76" y="68.0" width="43.59" height="10" fill="#3178C6"/>
+    <rect x="422.36" y="68.0" width="19.11" height="10" fill="#E34C26"/>
+    <rect x="441.47" y="68.0" width="17.45" height="10" fill="#F1E05A"/>
+    <rect x="458.92" y="68.0" width="12.08" height="10" fill="#2B7489"/>
   </g>
 
   <!-- Legenda 2 Colunas -->
@@ -43,7 +43,7 @@
     <g transform="translate(24, 98)">
       <circle cx="6" cy="7" r="5" fill="#3572A5"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">Python</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">65.6%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">65.5%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
       <rect x="18" y="16" width="91.8" height="4" rx="2" fill="#3572A5"/>
     </g>
@@ -64,7 +64,7 @@
     <g transform="translate(252, 130)">
       <circle cx="6" cy="7" r="5" fill="#E34C26"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">HTML5 &amp; CSS3</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">4.2%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">4.3%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
       <rect x="18" y="16" width="6.0" height="4" rx="2" fill="#E34C26"/>
     </g>
