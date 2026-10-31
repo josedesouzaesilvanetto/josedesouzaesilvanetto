@@ -24,18 +24,18 @@
     Stack &amp; Linguagens Predominantes
   </text>
   <text x="24" y="49" fill="#8B949E" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="11.5" font-weight="500">
-    Distribuição de Código Autoral nos 55 Repositórios
+    Distribuição de Código Autoral nos 58 Repositórios
   </text>
   <line x1="24" y1="59" x2="471" y2="59" stroke="#21262D" stroke-width="1"/>
 
   <!-- Barra Proporcional Empilhada -->
   <g clip-path="url(#barClip)">
-    <rect x="24.00" y="68.0" width="296.36" height="10" fill="#3572A5"/>
-    <rect x="320.36" y="68.0" width="60.34" height="10" fill="#E38C00"/>
-    <rect x="380.69" y="68.0" width="42.62" height="10" fill="#3178C6"/>
-    <rect x="423.31" y="68.0" width="18.69" height="10" fill="#E34C26"/>
-    <rect x="442.00" y="68.0" width="17.06" height="10" fill="#F1E05A"/>
-    <rect x="459.06" y="68.0" width="11.94" height="10" fill="#2B7489"/>
+    <rect x="24.00" y="68.0" width="296.45" height="10" fill="#3572A5"/>
+    <rect x="320.45" y="68.0" width="60.23" height="10" fill="#E38C00"/>
+    <rect x="380.68" y="68.0" width="42.55" height="10" fill="#3178C6"/>
+    <rect x="423.23" y="68.0" width="18.66" height="10" fill="#E34C26"/>
+    <rect x="441.89" y="68.0" width="17.04" height="10" fill="#F1E05A"/>
+    <rect x="458.92" y="68.0" width="12.08" height="10" fill="#2B7489"/>
   </g>
 
   <!-- Legenda 2 Colunas -->
