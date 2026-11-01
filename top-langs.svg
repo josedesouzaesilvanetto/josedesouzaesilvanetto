@@ -30,12 +30,12 @@
 
   <!-- Barra Proporcional Empilhada -->
   <g clip-path="url(#barClip)">
-    <rect x="24.00" y="68.0" width="296.95" height="10" fill="#3572A5"/>
-    <rect x="320.95" y="68.0" width="60.03" height="10" fill="#E38C00"/>
-    <rect x="380.98" y="68.0" width="42.41" height="10" fill="#3178C6"/>
-    <rect x="423.39" y="68.0" width="18.59" height="10" fill="#E34C26"/>
-    <rect x="441.98" y="68.0" width="16.98" height="10" fill="#F1E05A"/>
-    <rect x="458.96" y="68.0" width="12.04" height="10" fill="#2B7489"/>
+    <rect x="24.00" y="68.0" width="297.01" height="10" fill="#3572A5"/>
+    <rect x="321.01" y="68.0" width="60.01" height="10" fill="#E38C00"/>
+    <rect x="381.02" y="68.0" width="42.39" height="10" fill="#3178C6"/>
+    <rect x="423.41" y="68.0" width="18.59" height="10" fill="#E34C26"/>
+    <rect x="441.99" y="68.0" width="16.97" height="10" fill="#F1E05A"/>
+    <rect x="458.97" y="68.0" width="12.03" height="10" fill="#2B7489"/>
   </g>
 
   <!-- Legenda 2 Colunas -->
