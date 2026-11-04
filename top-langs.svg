@@ -30,12 +30,12 @@
 
   <!-- Barra Proporcional Empilhada -->
   <g clip-path="url(#barClip)">
-    <rect x="24.00" y="68.0" width="302.39" height="10" fill="#3572A5"/>
-    <rect x="326.39" y="68.0" width="56.71" height="10" fill="#E38C00"/>
-    <rect x="383.10" y="68.0" width="40.03" height="10" fill="#3178C6"/>
-    <rect x="423.13" y="68.0" width="19.47" height="10" fill="#E34C26"/>
-    <rect x="442.60" y="68.0" width="16.66" height="10" fill="#F1E05A"/>
-    <rect x="459.26" y="68.0" width="11.74" height="10" fill="#2B7489"/>
+    <rect x="24.00" y="68.0" width="302.45" height="10" fill="#3572A5"/>
+    <rect x="326.45" y="68.0" width="56.66" height="10" fill="#E38C00"/>
+    <rect x="383.11" y="68.0" width="40.00" height="10" fill="#3178C6"/>
+    <rect x="423.11" y="68.0" width="19.45" height="10" fill="#E34C26"/>
+    <rect x="442.56" y="68.0" width="16.65" height="10" fill="#F1E05A"/>
+    <rect x="459.21" y="68.0" width="11.79" height="10" fill="#2B7489"/>
   </g>
 
   <!-- Legenda 2 Colunas -->
@@ -43,7 +43,7 @@
     <g transform="translate(24, 98)">
       <circle cx="6" cy="7" r="5" fill="#3572A5"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">Python</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">67.6%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">67.7%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
       <rect x="18" y="16" width="94.7" height="4" rx="2" fill="#3572A5"/>
     </g>
@@ -52,12 +52,12 @@
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">SQL / T-SQL</text>
       <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">12.7%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
-      <rect x="18" y="16" width="17.8" height="4" rx="2" fill="#E38C00"/>
+      <rect x="18" y="16" width="17.7" height="4" rx="2" fill="#E38C00"/>
     </g>
     <g transform="translate(24, 130)">
       <circle cx="6" cy="7" r="5" fill="#3178C6"/>
       <text x="18" y="11" fill="#F0F6FC" font-size="12.5" font-weight="600">TypeScript</text>
-      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">9.0%</text>
+      <text x="198" y="11" text-anchor="end" fill="#8B949E" font-size="12" font-weight="700">8.9%</text>
       <rect x="18" y="16" width="180" height="4" rx="2" fill="#21262D"/>
       <rect x="18" y="16" width="12.5" height="4" rx="2" fill="#3178C6"/>
     </g>
